@@ -19,7 +19,7 @@ import {
   EyeIcon,
   ShareIcon,
   ArrowLeftIcon,
-  ChevronLeftIcon
+  ChevronLeftIcon,
 } from "@heroicons/react/20/solid";
 
 function formatText(text) {
@@ -253,7 +253,7 @@ export default function MyComponent() {
                 alt="profile"
               />
             </div>
-          
+
             <div
               // style={{ backgroundImage: `url('/assets/bgblue.jpg')` }}
               className="border-2 mx-2 flex w-full flex-col relative  bg-gray-200 p-4 shadow rounded-lg "
